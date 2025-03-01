@@ -4,9 +4,7 @@
  * Plugin Name: ShortCode Plugin
  * Description: This is second plugin of this course which gives idea about shorcode basics
  * Version: 1.0
- * Author: Sanjay Kumar
- * Plugin URI: https://example.com/shortcode-plugin
- * Author URI: https://onlinewebtutorblog.com
+ * Author: Nikhil Pachange
  */
 
 // Basic Shortcode
