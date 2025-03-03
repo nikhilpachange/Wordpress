@@ -4,7 +4,7 @@
  * Plugin Name: WP Employees CRUD
  * Description: This plugin performs CRUD Operations with Employees Table. Also on Activation it will create a dynamic wordpress page and it will have a shortcode.
  * Version: 1.0
- * Author: Sanjay Kumar
+ * Author: Nikhil Pachange
  */
 
  if(!defined("ABSPATH")){
